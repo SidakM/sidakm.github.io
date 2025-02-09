@@ -1,0 +1,23 @@
+.title{
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #37862A;
+  text-align: center;
+  font-size: 6rem;
+}
+.info{
+  width: 80%;
+  float: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 3rem;
+}
+
+hr{
+  border-color: #37862A;
+  width: 80%;
+}
+
+a{
+  color: #37862A;
+}
